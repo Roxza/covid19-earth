@@ -1,0 +1,38 @@
+{
+  "name": "covid19-earth",
+  "version": "1.0.4",
+  "description": "Advanced covid 19 information system",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RRoxza/covid19-earth.git"
+  },
+  "keywords": [
+    "turkey",
+    "backend",
+    "covid",
+    "covid-stats",
+    "covid19",
+    "corona",
+    "covidtr",
+    "covid-tr",
+    "covid-global",
+    "global-covid",
+    "corona",
+    "corona-global",
+    "corona-tr"
+  ],
+  "author": "Roxza",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "latest",
+    "axios": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/RRoxza/covid19-earth/issues"
+  },
+  "homepage": "https://github.com/RRoxza/covid19-earth#readme"
+}
